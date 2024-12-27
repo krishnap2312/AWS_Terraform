@@ -4,3 +4,4 @@ newsfeed/target
 front-end/target
 terraform*
 terraform.tfstate.backup
+.gitignore
