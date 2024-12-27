@@ -2,5 +2,5 @@
 quotes/target
 newsfeed/target
 front-end/target
-terraform.tfstate
+terraform*
 terraform.tfstate.backup
